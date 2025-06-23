@@ -1,0 +1,7 @@
+Python 3.9+
+
+Pandas 2.2.3
+
+NumPy 2.1.2
+
+scikit-learn 1.5.2
